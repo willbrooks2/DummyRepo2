@@ -1,1 +1,3 @@
 This is an example
+
+Proposing how to work in Git
